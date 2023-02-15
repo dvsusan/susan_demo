@@ -1,4 +1,4 @@
-package com.susan.demo.spring.scope;
+package com.susan.demo.spring.ioc.scope;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Service;

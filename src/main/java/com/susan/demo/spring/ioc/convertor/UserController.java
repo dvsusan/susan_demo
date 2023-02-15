@@ -1,4 +1,4 @@
-package com.susan.demo.spring.convertor;
+package com.susan.demo.spring.ioc.convertor;
 
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

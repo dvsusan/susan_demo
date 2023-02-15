@@ -1,4 +1,4 @@
-package com.susan.demo.spring.scope;
+package com.susan.demo.spring.ioc.scope;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanFactoryPostProcessor;

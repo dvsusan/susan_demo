@@ -1,4 +1,4 @@
-package com.susan.demo.spring.factorybean;
+package com.susan.demo.spring.ioc.factorybean;
 
 import org.springframework.beans.factory.FactoryBean;
 import org.springframework.stereotype.Component;

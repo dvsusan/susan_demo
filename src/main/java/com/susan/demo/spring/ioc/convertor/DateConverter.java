@@ -1,4 +1,4 @@
-package com.susan.demo.spring.convertor;
+package com.susan.demo.spring.ioc.convertor;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.convert.converter.Converter;

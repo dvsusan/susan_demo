@@ -1,4 +1,4 @@
-package com.susan.demo.spring.init;
+package com.susan.demo.spring.ioc.init;
 
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.susan.demo.spring.convertor;
+package com.susan.demo.spring.ioc.convertor;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.format.FormatterRegistry;

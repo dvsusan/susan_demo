@@ -1,6 +1,5 @@
-package com.susan.demo.spring.aware;
+package com.susan.demo.spring.ioc.aware;
 
-import com.susan.demo.spring.convertor.UserModel;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;
