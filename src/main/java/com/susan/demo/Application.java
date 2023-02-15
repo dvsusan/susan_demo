@@ -1,5 +1,6 @@
 package com.susan.demo;
 
+import com.susan.demo.filter.EnableLog;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
@@ -7,6 +8,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 /**
  * 服务启动程序
  */
+@EnableLog
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 public class Application {
 

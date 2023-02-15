@@ -1,4 +1,4 @@
-package com.susan.demo.model;
+package com.susan.demo.spring.convertor;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

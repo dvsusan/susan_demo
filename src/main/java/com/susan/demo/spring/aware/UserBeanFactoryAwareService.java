@@ -1,6 +1,6 @@
 package com.susan.demo.spring.aware;
 
-import com.susan.demo.model.UserModel;
+import com.susan.demo.spring.convertor.UserModel;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.BeanFactoryAware;
