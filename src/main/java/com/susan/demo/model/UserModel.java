@@ -4,6 +4,8 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.Date;
+
 /**
  * 用户实体
  *
@@ -29,4 +31,9 @@ public class UserModel {
      * 年龄
      */
     private Integer age;
+
+    /**
+     * 注册时间
+     */
+    private Date registerDate;
 }
