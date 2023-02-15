@@ -1,0 +1,17 @@
+target/
+logs/
+
+*.dat
+.DS_Store
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+/*/.project
+/.project
+/*/.classpath
+/.idea/**
+!/.idea/checkstyle-idea.xml
+!/.idea/encodings.xml
+log/
