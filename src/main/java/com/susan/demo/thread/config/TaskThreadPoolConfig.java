@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
  */
 @Data
 @Configuration
-@ConfigurationProperties(prefix = "task.pool")
+@ConfigurationProperties(prefix = "susan.demo.task.pool")
 public class TaskThreadPoolConfig {
 
     /**
