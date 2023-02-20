@@ -1,4 +1,4 @@
-package com.susan.demo.lamba;
+package com.susan.demo.lamda;
 
 import com.google.common.collect.Lists;
 import org.junit.jupiter.api.Test;
