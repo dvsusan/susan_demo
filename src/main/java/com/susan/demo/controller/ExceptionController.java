@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RequestMapping("/exception")
 @RestController
-public class ExceptionTestController {
+public class ExceptionController {
 
     /**
      * 测试方法
